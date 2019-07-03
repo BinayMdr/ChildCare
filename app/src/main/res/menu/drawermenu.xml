@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/food" android:title="Food" android:icon="@drawable/foodicon2"/>
+    <item android:id="@+id/map" android:title="Map" android:icon="@drawable/mapicon"/>
+    <item android:id="@+id/learning" android:title="Learning" android:icon="@drawable/learningicon"/>
+    <item android:id="@+id/vaccination" android:title="Vaccination" android:icon="@drawable/vaccinationicon2"/>
+    <item android:title="Contact us on:"/>
+
+    <item android:id="@+id/email" android:title="Email us " android:icon="@drawable/email"/>
+</menu>
